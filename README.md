@@ -21,7 +21,7 @@ S && C etant l'unicode UTF8 : https://fr.wikipedia.org/wiki/UTF-8
 
 Et que printf est une fonction très très riche : http://manpagesfr.free.fr/man/man3/printf.3.html
 
-![42fc](https://github.com/Jino42/ft_printf/tree/master/pic/42fs.png)
+![42fc](https://github.com/Jino42/ft_printf/blob/master/pic/42fs.png)
 
 C'est pour cela que le 42FileChecker propose presque 800tests unitaire pour verifier la précision de notre printf.
 
