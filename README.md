@@ -5,17 +5,27 @@ Presentation
 -
 Recoder printf de la librairie C avec uniquement :
 ◦ write
+
 ◦ malloc
+
 ◦ free
+
 ◦ exit
+
 ◦ les fonctions du man 3 stdarg (Pour récuperer plusieurs arguments)
+
 
 Mon printf gères (Consigne obligatoire)
 • les conversions suivantes : sSpdDioOuUxXcC
+
 • les flags #0-+ et espace
+
 • la taille minimum du champ (width)
+
 • la précision (.)
+
 • les flags hh h l ll j z
+
 
 S && C etant l'unicode UTF8 : https://fr.wikipedia.org/wiki/UTF-8
 
