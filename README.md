@@ -4,6 +4,7 @@ FT_PRINTF
 Presentation
 -
 Recoder printf de la librairie C avec uniquement :
+
 ◦ write
 
 ◦ malloc
@@ -16,6 +17,7 @@ Recoder printf de la librairie C avec uniquement :
 
 
 Mon printf gères (Consigne obligatoire)
+
 • les conversions suivantes : sSpdDioOuUxXcC
 
 • les flags #0-+ et espace
