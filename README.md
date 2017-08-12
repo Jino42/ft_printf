@@ -37,14 +37,13 @@ Et que printf est une fonction très très riche : http://manpagesfr.free.fr/man
 
 C'est pour cela que le 42FileChecker propose presque 800tests unitaire pour verifier la précision de notre printf.
 
-J'ai décider par soucit de propreté de gérer tout les cas défini et indéfinie de manière logique et ludique, comme printf les gèrent;
+J'ai décidé par soucit de propreté de gérer tout les cas défini et indéfinie de manière logique et ludique, comme printf les gèrent;
 ft_printf("%##00##00 33..1..#00d", 42); a donc un sens.
 
 Code
 -
-Le code est très épurer dans le sens ou, qu'importe la convertion, le chemin reste le meme. Ce qui donne un sens très logique a mon printf
+Le code est très épuré dans le sens ou, qu'importe la convertion, le chemin reste le meme. Ce qui donne un sens très logique a mon printf
 J'utilise un buffer pour rester rapide et propre
-Il n'y a aucune condition qui sort de l'ordinaire (Enfaite si, il y en a une, qui m'a couté des points :p)
 
 *Bonus fait :*
 La convertion f (Double/Float Peut précis)
